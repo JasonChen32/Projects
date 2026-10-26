@@ -1,6 +1,8 @@
-Description of Each Project:
+Descriptions of Files
 
 CAPSTONE_LSTM: Capstone Report documenting workflow, modules and system performance of the Residential/Business/Industrial Load Forecasting web app hosted on Azure.
+
+MetENG Competition Photos: Photos taken during the Metropolitan Engineering Competition (Senior Category)
 
 1B_ADDER_DESIGN: Designed the layout of a 1 Bit full adder from schematic using Cadence Virtuoso, passing LVS and DRC checks.
 
